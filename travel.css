@@ -307,9 +307,9 @@ section{
     width:.5rem;
     display:inline-block;
     border-radius: 50%;
-    background: black;
+    background: rgb(12, 11, 11);
     cursor:pointer;
-    margin:0 0.5rem;
+    margin:0 0.5rem; 
 }
 .home .controls .gif-btn:hover{
     background:rgb(44, 43, 43);
