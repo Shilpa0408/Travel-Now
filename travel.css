@@ -310,6 +310,7 @@ section{
     background: white;
     cursor:pointer;
     margin:0 0.5rem;
+    color:black;
 }
 .home .controls .gif-btn:hover{
     background:rgb(44, 43, 43);
